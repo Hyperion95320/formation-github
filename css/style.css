@@ -1,0 +1,24 @@
+#home,.navbar,footer{
+    background: linear-gradient(to right, #ad5389, #3c1053);
+}
+}
+.border-purple{
+    border-bottom:solid 1px purple;
+}
+:root{
+    --bs-primary: #ad5389 !important;
+}
+.w-15{
+    width:15%;
+}
+.pb-6{
+    padding-bottom: 80px;
+}
+
+#home, #services{
+    padding-top:9%;
+    padding-bottom:9%
+}
+.border-primary{
+    border-color:var(--bs-primary) !important;
+}
